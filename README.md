@@ -4,7 +4,7 @@
 
 * 下载最新版v2rayN请访问https://github.com/2dust/v2rayN/releases
 * 了解原项目作者的规则请访问https://github.com/Loyalsoldier/v2ray-rules-dat/releases
-## 如果你是小白，或者你的配置出现了未知的错误，请移步releases，那里有已配置好的V2rayN 4.36版本
+## 如果你是小白，或者你的配置出现了未知的错误，请移步releases，那里有已配置好的V2rayN 5.9版本!!!
 
 ## 依赖GEO文件
 
