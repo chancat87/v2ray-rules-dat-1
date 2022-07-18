@@ -5,7 +5,7 @@
 * 下载最新版v2rayN请访问https://github.com/2dust/v2rayN/releases
 * 了解原项目作者的规则请访问https://github.com/Loyalsoldier/v2ray-rules-dat/releases
 ## 如果你是小白，或者你的配置出现了未知的错误，请移步releases，那里有已配置好的V2rayN，打开即用!!!
-## 配置好的v2rayN已于2022年6月19日更新至最新v5.26稳定版，同时更新了系统内核和规则文件。
+## 配置好的v2rayN已于2022年7月18日更新至最新v5.29稳定版，同时更新了系统内核和规则文件。
 
 ## 依赖GEO文件
 
@@ -13,15 +13,11 @@
 
 * `geoip.dat`
 
-墙内：https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat
-
-墙外：https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat （比墙内先更新）
+https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat 
 
 * `geosite.dat`
 
-墙内：https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat
-
-墙外：https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat （比墙内先更新）
+https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat 
 
 ## 路由配置如下设置
 首先需要开启v2rayN路由设置中的启用路由高级功能，随后双击需要编辑的规则，在弹出的窗口上方菜单栏选择导入规则-从剪贴板导入规则
